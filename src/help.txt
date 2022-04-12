@@ -1,0 +1,7 @@
+Assignment #6 
+Create an app with multiple screens, each screen should tell something about you, i.e
+1-Introduction
+2-Educational Background
+3-Professional Background
+4-Feedback on this course
+Use react-navigation to move between screens and pass data from one screen to another using async
